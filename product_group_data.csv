@@ -1,0 +1,101 @@
+product_group_id,group_name,group_description,category,sub_category,department,manager_id,target_market,launch_date,discontinued_date,status
+1,Group 1,Description for Group 1,Computers,Subcategory C,Research,6,Europe,2018-09-30 21:11:10,,Inactive
+2,Group 2,Description for Group 2,Computers,Subcategory C,Sales,5,Asia,2012-08-05 06:42:38,,Active
+3,Group 3,Description for Group 3,Electronics,Subcategory A,Marketing,13,Asia,2020-04-24 15:58:46,2029-12-10 08:37:08,Active
+4,Group 4,Description for Group 4,Home Appliances,Subcategory B,Development,10,Global,2017-10-10 11:45:17,2027-05-25 09:44:53,Active
+5,Group 5,Description for Group 5,Smartphones,Subcategory C,Marketing,3,Europe,2011-08-27 21:59:48,,Inactive
+6,Group 6,Description for Group 6,Home Appliances,Subcategory B,Marketing,14,Global,2017-09-12 07:13:40,,Inactive
+7,Group 7,Description for Group 7,Computers,Subcategory C,Research,11,Asia,2010-05-25 06:10:00,,Active
+8,Group 8,Description for Group 8,Home Appliances,Subcategory D,Sales,12,USA,2020-06-10 00:24:35,,Inactive
+9,Group 9,Description for Group 9,Computers,Subcategory D,Research,16,Europe,2022-08-01 03:23:41,,Active
+10,Group 10,Description for Group 10,Computers,Subcategory A,Marketing,10,Asia,2017-12-23 03:07:54,,Active
+11,Group 11,Description for Group 11,Electronics,Subcategory D,Development,17,Asia,2018-02-28 03:10:07,2024-09-06 03:10:53,Active
+12,Group 12,Description for Group 12,Electronics,Subcategory B,Sales,17,Asia,2017-12-27 06:27:09,2028-06-08 23:39:00,Inactive
+13,Group 13,Description for Group 13,Home Appliances,Subcategory C,Research,14,Europe,2011-07-09 11:42:03,,Inactive
+14,Group 14,Description for Group 14,Smartphones,Subcategory A,Marketing,14,Asia,2010-10-27 11:53:42,2026-04-07 21:06:35,Active
+15,Group 15,Description for Group 15,Electronics,Subcategory A,Sales,8,Asia,2018-06-22 17:42:49,2026-03-17 20:51:37,Inactive
+16,Group 16,Description for Group 16,Smartphones,Subcategory C,Sales,4,Global,2016-10-05 00:37:11,,Active
+17,Group 17,Description for Group 17,Smartphones,Subcategory A,Development,6,Europe,2022-02-09 04:22:12,2025-02-08 02:06:21,Active
+18,Group 18,Description for Group 18,Smartphones,Subcategory D,Development,8,USA,2021-11-12 12:56:27,2025-09-14 00:11:20,Inactive
+19,Group 19,Description for Group 19,Smartphones,Subcategory C,Development,11,Global,2022-06-19 10:14:40,2029-12-17 01:18:44,Inactive
+20,Group 20,Description for Group 20,Electronics,Subcategory A,Development,1,Global,2018-10-11 13:33:42,2024-11-28 02:50:16,Inactive
+21,Group 21,Description for Group 21,Home Appliances,Subcategory C,Research,19,Europe,2019-07-25 04:06:50,,Active
+22,Group 22,Description for Group 22,Smartphones,Subcategory A,Sales,10,Europe,2021-01-23 09:33:57,2024-02-28 02:11:34,Active
+23,Group 23,Description for Group 23,Electronics,Subcategory C,Development,7,USA,2018-09-03 17:56:36,2026-01-03 05:03:02,Active
+24,Group 24,Description for Group 24,Home Appliances,Subcategory A,Research,4,Global,2022-06-18 01:15:47,,Inactive
+25,Group 25,Description for Group 25,Home Appliances,Subcategory B,Marketing,3,Global,2019-11-03 20:30:27,2024-02-16 21:16:32,Active
+26,Group 26,Description for Group 26,Smartphones,Subcategory C,Research,13,USA,2014-01-18 19:52:12,2027-10-04 20:26:34,Inactive
+27,Group 27,Description for Group 27,Computers,Subcategory D,Marketing,6,Europe,2015-09-30 00:25:27,,Inactive
+28,Group 28,Description for Group 28,Smartphones,Subcategory C,Development,11,Asia,2019-08-14 01:07:33,2027-04-11 01:06:46,Inactive
+29,Group 29,Description for Group 29,Computers,Subcategory A,Research,15,Asia,2017-12-13 21:29:52,,Inactive
+30,Group 30,Description for Group 30,Home Appliances,Subcategory D,Development,1,Global,2017-05-29 15:58:03,,Inactive
+31,Group 31,Description for Group 31,Computers,Subcategory A,Marketing,11,Global,2017-08-20 22:23:51,,Inactive
+32,Group 32,Description for Group 32,Computers,Subcategory B,Marketing,19,Global,2013-02-07 19:17:12,2029-03-19 20:33:48,Inactive
+33,Group 33,Description for Group 33,Computers,Subcategory D,Development,17,Asia,2011-03-10 16:47:43,2028-01-27 13:07:40,Inactive
+34,Group 34,Description for Group 34,Home Appliances,Subcategory A,Research,1,Global,2011-03-27 00:24:07,,Active
+35,Group 35,Description for Group 35,Home Appliances,Subcategory A,Marketing,15,Asia,2018-10-25 02:46:06,2026-01-31 15:10:34,Inactive
+36,Group 36,Description for Group 36,Smartphones,Subcategory C,Sales,8,Asia,2016-09-10 21:28:33,,Inactive
+37,Group 37,Description for Group 37,Smartphones,Subcategory A,Development,5,USA,2010-05-14 08:00:21,2024-02-19 19:14:41,Active
+38,Group 38,Description for Group 38,Electronics,Subcategory D,Marketing,16,Global,2019-04-09 20:27:47,2026-11-01 04:57:39,Inactive
+39,Group 39,Description for Group 39,Electronics,Subcategory A,Sales,18,USA,2011-08-22 04:26:25,2029-01-23 06:59:16,Inactive
+40,Group 40,Description for Group 40,Home Appliances,Subcategory C,Research,2,Global,2012-06-12 19:23:00,,Active
+41,Group 41,Description for Group 41,Computers,Subcategory A,Sales,13,Asia,2017-06-13 03:21:53,2024-03-31 05:08:29,Inactive
+42,Group 42,Description for Group 42,Electronics,Subcategory A,Development,11,Asia,2017-02-22 01:20:02,2028-04-16 10:36:49,Inactive
+43,Group 43,Description for Group 43,Home Appliances,Subcategory B,Development,9,Europe,2021-02-10 12:01:23,2025-03-30 12:33:35,Active
+44,Group 44,Description for Group 44,Computers,Subcategory A,Sales,11,Europe,2011-10-04 12:47:57,2027-05-12 20:13:36,Inactive
+45,Group 45,Description for Group 45,Home Appliances,Subcategory C,Marketing,6,Europe,2018-04-20 09:27:17,2025-07-27 04:48:54,Inactive
+46,Group 46,Description for Group 46,Home Appliances,Subcategory B,Sales,5,USA,2017-05-17 06:10:08,2026-04-21 20:44:13,Active
+47,Group 47,Description for Group 47,Computers,Subcategory B,Marketing,4,USA,2016-05-04 04:30:56,,Inactive
+48,Group 48,Description for Group 48,Home Appliances,Subcategory D,Marketing,4,Europe,2010-06-13 16:11:00,2024-09-24 17:18:34,Inactive
+49,Group 49,Description for Group 49,Electronics,Subcategory C,Marketing,4,Asia,2019-12-11 13:19:48,,Active
+50,Group 50,Description for Group 50,Computers,Subcategory A,Research,2,Global,2014-05-14 03:48:24,,Inactive
+51,Group 51,Description for Group 51,Computers,Subcategory B,Research,4,Europe,2010-02-27 23:30:57,,Inactive
+52,Group 52,Description for Group 52,Home Appliances,Subcategory A,Sales,6,Europe,2019-05-27 15:32:04,,Active
+53,Group 53,Description for Group 53,Smartphones,Subcategory C,Marketing,8,Global,2021-10-22 15:00:48,2027-12-21 18:30:32,Active
+54,Group 54,Description for Group 54,Computers,Subcategory C,Research,13,Europe,2014-08-25 18:53:01,2028-08-15 19:41:21,Inactive
+55,Group 55,Description for Group 55,Computers,Subcategory C,Research,5,Global,2014-05-21 19:51:17,,Active
+56,Group 56,Description for Group 56,Home Appliances,Subcategory A,Research,2,Global,2015-08-29 03:15:59,2026-10-04 12:17:06,Active
+57,Group 57,Description for Group 57,Computers,Subcategory A,Marketing,2,Global,2021-06-06 02:54:38,2028-05-06 03:40:12,Inactive
+58,Group 58,Description for Group 58,Computers,Subcategory D,Research,19,Global,2014-05-27 11:51:43,,Active
+59,Group 59,Description for Group 59,Home Appliances,Subcategory D,Development,11,Europe,2015-11-02 13:10:41,2024-10-17 02:25:18,Inactive
+60,Group 60,Description for Group 60,Smartphones,Subcategory A,Sales,18,Global,2021-11-21 14:46:41,2025-01-02 15:14:20,Active
+61,Group 61,Description for Group 61,Electronics,Subcategory A,Marketing,1,Europe,2015-03-02 14:53:44,,Inactive
+62,Group 62,Description for Group 62,Home Appliances,Subcategory D,Marketing,13,Global,2014-08-04 06:37:36,2028-06-03 17:13:29,Active
+63,Group 63,Description for Group 63,Computers,Subcategory C,Marketing,8,Europe,2010-10-03 18:01:29,,Active
+64,Group 64,Description for Group 64,Computers,Subcategory A,Development,12,Europe,2021-01-08 00:25:22,,Active
+65,Group 65,Description for Group 65,Home Appliances,Subcategory D,Research,13,Europe,2020-08-15 23:35:00,2027-03-15 22:01:36,Inactive
+66,Group 66,Description for Group 66,Smartphones,Subcategory D,Sales,6,Europe,2020-09-22 21:20:18,,Inactive
+67,Group 67,Description for Group 67,Smartphones,Subcategory D,Sales,6,Asia,2021-07-17 03:38:37,,Inactive
+68,Group 68,Description for Group 68,Computers,Subcategory C,Marketing,11,USA,2011-01-02 05:46:17,2025-06-12 07:15:55,Inactive
+69,Group 69,Description for Group 69,Electronics,Subcategory D,Development,2,USA,2010-08-15 16:24:31,,Active
+70,Group 70,Description for Group 70,Computers,Subcategory A,Research,12,USA,2011-06-01 18:51:55,2024-12-24 22:06:50,Active
+71,Group 71,Description for Group 71,Computers,Subcategory C,Research,16,Asia,2021-06-18 02:47:51,,Inactive
+72,Group 72,Description for Group 72,Smartphones,Subcategory B,Development,17,Global,2021-11-05 23:51:32,2029-12-02 10:52:52,Active
+73,Group 73,Description for Group 73,Computers,Subcategory C,Marketing,17,Global,2018-12-02 15:49:07,2029-11-07 02:06:30,Inactive
+74,Group 74,Description for Group 74,Electronics,Subcategory D,Research,11,Asia,2018-02-15 01:28:21,,Active
+75,Group 75,Description for Group 75,Home Appliances,Subcategory B,Marketing,10,USA,2014-11-12 06:33:07,,Active
+76,Group 76,Description for Group 76,Electronics,Subcategory C,Development,14,Global,2014-08-12 17:40:05,2026-05-16 20:47:45,Inactive
+77,Group 77,Description for Group 77,Computers,Subcategory C,Marketing,11,Europe,2020-09-16 08:37:39,2024-04-11 13:49:02,Inactive
+78,Group 78,Description for Group 78,Electronics,Subcategory C,Marketing,12,Asia,2018-05-25 23:25:23,2026-05-04 15:33:30,Active
+79,Group 79,Description for Group 79,Electronics,Subcategory D,Development,16,USA,2019-01-13 00:09:18,,Active
+80,Group 80,Description for Group 80,Electronics,Subcategory C,Marketing,11,Asia,2010-11-29 09:41:21,,Inactive
+81,Group 81,Description for Group 81,Computers,Subcategory D,Research,20,Global,2017-07-12 12:13:18,,Inactive
+82,Group 82,Description for Group 82,Electronics,Subcategory D,Sales,14,Europe,2021-03-01 08:47:53,2026-08-19 17:30:53,Active
+83,Group 83,Description for Group 83,Electronics,Subcategory D,Research,19,USA,2018-07-15 23:36:29,,Inactive
+84,Group 84,Description for Group 84,Electronics,Subcategory B,Marketing,6,Asia,2021-07-13 22:34:30,,Inactive
+85,Group 85,Description for Group 85,Home Appliances,Subcategory D,Marketing,5,USA,2010-03-30 23:12:17,2024-08-13 11:37:17,Active
+86,Group 86,Description for Group 86,Smartphones,Subcategory C,Sales,12,Global,2011-08-26 22:55:05,,Active
+87,Group 87,Description for Group 87,Smartphones,Subcategory B,Development,15,Global,2014-08-20 07:29:11,,Active
+88,Group 88,Description for Group 88,Smartphones,Subcategory C,Research,19,Europe,2010-05-04 14:12:34,2025-07-26 11:32:59,Active
+89,Group 89,Description for Group 89,Electronics,Subcategory B,Sales,9,Asia,2022-01-04 05:30:43,,Inactive
+90,Group 90,Description for Group 90,Computers,Subcategory C,Marketing,8,Global,2012-12-14 17:24:43,2024-08-31 06:13:52,Active
+91,Group 91,Description for Group 91,Electronics,Subcategory D,Research,5,Europe,2012-01-24 23:08:16,2028-02-01 16:47:38,Active
+92,Group 92,Description for Group 92,Smartphones,Subcategory A,Development,11,USA,2020-07-20 21:35:18,,Active
+93,Group 93,Description for Group 93,Electronics,Subcategory D,Development,17,USA,2019-02-10 06:58:30,,Active
+94,Group 94,Description for Group 94,Electronics,Subcategory D,Development,1,Global,2013-07-10 02:16:51,2025-07-11 12:55:55,Inactive
+95,Group 95,Description for Group 95,Home Appliances,Subcategory C,Research,10,Global,2019-02-26 07:20:24,,Active
+96,Group 96,Description for Group 96,Computers,Subcategory D,Development,9,USA,2017-12-26 07:47:15,,Active
+97,Group 97,Description for Group 97,Smartphones,Subcategory C,Research,8,Asia,2010-07-18 19:57:46,2029-06-05 14:29:15,Inactive
+98,Group 98,Description for Group 98,Home Appliances,Subcategory C,Sales,2,USA,2011-02-27 04:29:24,2027-06-02 17:24:57,Active
+99,Group 99,Description for Group 99,Smartphones,Subcategory A,Sales,5,Global,2015-05-07 02:52:35,2025-10-30 10:12:04,Inactive
+100,Group 100,Description for Group 100,Computers,Subcategory A,Development,10,Asia,2010-07-08 20:10:00,,Inactive
